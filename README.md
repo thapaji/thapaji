@@ -23,9 +23,7 @@ I'm Sujan Thapa, a Software Developer based in Sydney, Australia. With a Master'
 
 <!-- Wakatime Stats -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thapaji&layout=compact&custom_title=Weekly%20Coding%20Activity&theme=radical" width="90%">
-</p>
+<figure><embed src="https://wakatime.com/share/@thapaji/a59eff2d-c667-4bed-a4d8-e667dc97de3d.svg"></embed></figure>
 
 <!-- Commit Activity and My Contributions -->
 <p align="center">

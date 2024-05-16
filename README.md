@@ -21,6 +21,13 @@ I'm Sujan Thapa, a Software Developer based in Sydney, Australia. With a Master'
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapaji&layout=compact&theme=radical" width="45%">
 </p>
 
+<!-- Wakatime Stats -->
+## Wakatime Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thapaji&layout=compact&custom_title=Weekly%20Coding%20Activity&theme=radical" width="90%">
+</p>
+
 <!-- Commit Activity and My Contributions -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thapaji&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Commit%20Activity%20-%20Last%207%20days&hide=prs,issues,contribs&hide_rank=true&line_height=28" width="45%">

@@ -7,23 +7,15 @@
   <img src="https://img.shields.io/github/stars/thapaji?label=Stars&style=flat-square" alt="Stars">
 </p>
 
-<!-- About Me Section -->
 ## About Me
 
 I'm Sujan Thapa, a Software Developer based in Sydney, Australia. With a Master's degree in Applied Information Technology, I specialize in Java, .NET, JavaScript, and more. I excel in dynamic environments, from developing enterprise-level applications to supporting existing projects.
 
-<!-- Sujan's Stats -->
 ## Sujan's Stats
 
-<!-- GitHub Stats and Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thapaji&show_icons=true&theme=radical" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapaji&layout=compact&theme=radical" width="45%">
-</p>
-
-<!-- Wakatime Stats -->
-<p align="center">
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@thapaji/e874716b-5ce2-4cc6-b0cc-7ef04ba15c78.png" /></a>
 </p>
 
 <!-- Commit Activity and My Contributions -->
